@@ -28,11 +28,8 @@ export default Vue.extend({
 
   components: {
     Home,
-  },
-
-  data: () => ({
-    //
-  }),
+  }
+  
 });
 </script>
 
